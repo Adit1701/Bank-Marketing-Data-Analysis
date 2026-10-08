@@ -1,7 +1,7 @@
 
 # Project Proposal: Bank Marketing Data Analysis
 
-## 1. Project Definition
+1. Project Definition
 
 The proposed project focuses on analyzing the **Bank Marketing dataset** using Python and various data analysis and visualization techniques.
 
@@ -11,9 +11,7 @@ The project will include data cleaning operations such as handling missing value
 
 The analysis will help identify factors that may influence the success of a bank's marketing campaign and will provide meaningful insights from the dataset.
 
----
-
-## 2. Dataset Use Case
+2. Dataset Use Case
 
 The **Bank Marketing dataset** contains information about customers contacted during marketing campaigns conducted by a bank.
 
@@ -51,9 +49,7 @@ By analyzing the data, the bank can identify:
 
 These insights can help banks improve their marketing strategies and target potential customers more effectively.
 
----
-
-## 3. Visualization Graphs / Plots and Their Expected Outcomes
+3. Visualization Graphs / Plots and Their Expected Outcomes
 
 At least six visualizations will be created during the project.
 
@@ -116,9 +112,7 @@ If required, additional graphs may also be created, such as:
 - Call duration vs subscription
 - Previous campaign outcome vs current subscription
 
----
-
-## 4. Python Libraries and Tools
+4. Python Libraries and Tools
 
 The following Python libraries and tools will be used:
 
@@ -169,35 +163,12 @@ GitHub will be used to store the project source code, dataset-related documentat
 
 The GitHub repository will also contain commits from both team members if the project is completed by a team.
 
----
-
-## 5. GitHub Repository
-
-The project will be maintained in a GitHub repository containing the following files:
-
-
-Bank-Marketing-Data-Analysis/
-│
-├── README.md
-├── Bank_Marketing_Analysis.ipynb
-├── dataset/
-│   └── bank-additional-full.csv
-│
-├── visualizations/
-│   ├── age_distribution.png
-│   ├── job_distribution.png
-│   ├── subscription_status.png
-│   ├── education_distribution.png
-│   ├── balance_boxplot.png
-│   └── age_vs_balance.png
-
+5. GitHub Repository
 
 GitHub Link:
 To be added after creating the repository.
 
 The repository will be regularly updated with commits documenting the development of the project.
-
----
 
 6. Expected Final Outcome
 
