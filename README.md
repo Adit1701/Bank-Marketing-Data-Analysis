@@ -179,10 +179,9 @@ The project will be maintained in a GitHub repository containing the following f
 Bank-Marketing-Data-Analysis/
 │
 ├── README.md
-├── Project_Proposal.md
 ├── Bank_Marketing_Analysis.ipynb
 ├── dataset/
-│   └── bank-marketing.csv
+│   └── bank-additional-full.csv
 │
 ├── visualizations/
 │   ├── age_distribution.png
@@ -191,9 +190,6 @@ Bank-Marketing-Data-Analysis/
 │   ├── education_distribution.png
 │   ├── balance_boxplot.png
 │   └── age_vs_balance.png
-│
-└── documentation/
-    └── Project_Report.pdf
 
 
 GitHub Link:
