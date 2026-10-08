@@ -166,7 +166,7 @@ The GitHub repository will also contain commits from both team members if the pr
 5. GitHub Repository
 
 GitHub Link:
-To be added after creating the repository.
+https://github.com/Adit1701/Bank-Marketing-Data-Analysis
 
 The repository will be regularly updated with commits documenting the development of the project.
 
